@@ -1,0 +1,24 @@
+{
+	"name": "bugcommands",
+	"title": "Bugcommands",
+	"description": "Commands of bug.",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.8.6",
+	"compatibleCoreVersion": "0.8.9",
+	"author": "Arietta",
+
+	"scripts": [],
+	"esmodules": ["main.js"],
+
+	"languages": [
+		{
+		  "lang": "en",
+		  "name": "English",
+		  "path": "lang/en.json"
+		}
+	  ],
+	
+	"url": "https://github.com/hanhmchau/bugcommands",
+	"manifest": "https://raw.githubusercontent.com/hanhmchau/bugcommands/master/module.json",
+	"download": "https://github.com/hanhmchau/bugcommands/archive/0.0.1.zip"
+}
